@@ -24,7 +24,10 @@
 ## Output
 
 ![screenshot](https://raw.githubusercontent.com/fakkk534/FREE-CC-CHECKERV6.0/master/img/output.png)
+<p align="center">
 This is the result if the code is successfully validation.
+</p>
+
 
 ---
 
