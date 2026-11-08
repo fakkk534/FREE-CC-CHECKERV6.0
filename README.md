@@ -1,8 +1,5 @@
 # FREE-CC-CHECKERV6.0
 
-# CC-CHECKER-CLIV5.5
-
-
 <h1 align="center">
   <br>
   <a href="http://www.darkxcode.site"><img src="https://raw.githubusercontent.com/fakkk534/FREE-CC-CHECKERV6.0/master/img/darkxcode.PNG" alt="cc" width="200"></a>
